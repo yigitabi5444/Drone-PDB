@@ -1,0 +1,14 @@
+02-05 13:51:20 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 409:Plugin executed on: 'darwin'
+02-05 13:51:20 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 410:Plugin executed with python version: '3.8.2 (v3.8.2:7b3ab5921f, Feb 24 2020, 17:52:18) \n[Clang 6.0 (clang-600.0.57)]'
+02-05 13:51:20 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 411:KiCad build version: (6.0.10-0)
+02-05 13:51:20 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 412:Plugin version: 1.2.8
+02-05 13:51:20 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 413:Frame repr: <wx._core.Frame object at 0x7f9188f4ed30>
+02-05 13:51:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+02-05 13:51:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint CN1 on root level
+02-05 13:51:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint CN7 on root level
+02-05 13:51:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint CN6 on root level
+02-05 13:51:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint CN8 on root level
+02-05 13:51:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint CN5 on root level
+02-05 13:51:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint CN3 on root level
+02-05 13:51:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint CN2 on root level
+02-05 13:51:20 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint CN4 on root level
